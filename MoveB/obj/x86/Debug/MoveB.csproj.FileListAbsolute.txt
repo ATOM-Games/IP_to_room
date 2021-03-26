@@ -1,0 +1,14 @@
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\obj\x86\Debug\MoveB.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\obj\x86\Debug\MoveB.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\bin\Debug\MoveB.exe
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\bin\Debug\MoveB.pdb
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\obj\x86\Debug\MoveB.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\obj\x86\Debug\MoveB.exe
+C:\Users\user\AppData\Local\Temporary Projects\MoveB\obj\x86\Debug\MoveB.pdb
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\obj\x86\Debug\MoveB.exe
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\obj\x86\Debug\MoveB.pdb
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\bin\Debug\MoveB.exe
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\bin\Debug\MoveB.pdb
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\obj\x86\Debug\MoveB.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\obj\x86\Debug\MoveB.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\MoveB\MoveB\obj\x86\Debug\MoveB.csproj.GenerateResource.Cache
